@@ -1,0 +1,9 @@
+public class reverse{
+    public static void main(String[] args){
+        int[] arr={1,2,3,4,5};
+        System.out.println("reverse of an array:");
+        for(int i=arr.length;i>0;i--){
+            System.out.println(i);
+        }
+    }
+}
